@@ -1,0 +1,15 @@
+.add-service form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.add-service form input,
+textarea {
+  width: 40%;
+  margin-bottom: 10px;
+}
+.sub-btn {
+  color: white;
+  background-color: rgb(247, 78, 78);
+}
